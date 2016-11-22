@@ -1,1 +1,1 @@
-Work: node node/app.js
+Work: node app.js

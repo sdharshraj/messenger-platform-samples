@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": ""
+    "appSecret": "b15c0a285fcb49cbb9fb815086d4f5c4",
+    "pageAccessToken": "EAADByvo7ZB94BAKvsa080fCZAX2jZAwoIBZAyoRGzvvLUuzilNrZCuZAr5RG8qJgIpAQZBhUEhyJioPozDiSv7TucFWwGeqKf2pZBxUdj6mdoDVdZC9I8mWmNUJz8md5B5BUHXnda6m6kl3NflyC9no9MZCXihUsQYWZBs4suTaNZBFrKQZDZD",
+    "validationToken": "harsh",
+    "serverURL": "https://hrmessengerbot.herokuapp.com/"
 }
